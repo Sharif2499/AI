@@ -1,2 +1,2 @@
 # AI
-Using mediapipe and opencv for pose estimation
+Using mediapipe and opencv for pose estimation from live feed.
